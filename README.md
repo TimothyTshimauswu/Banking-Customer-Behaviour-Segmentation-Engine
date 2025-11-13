@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="assets/project_banner.png" width="100%" alt="Customer Segmentation ML Project Banner">
+  <img src="assets/project_banner.png" width="100%" alt="Banking Customer Behaviour Segmentation Engine Banner">
 </p>
 
-<h1 align="center">Customer Segmentation & Classification for Banking</h1>
-<h3 align="center">K-Means Clustering • PCA • Decision Tree Classifier • Streamlit Deployment</h3>
+<h1 align="center">Banking Customer Behaviour Segmentation Engine</h1>
 
-End-to-end customer segmentation project using credit card behavioural data. Includes PCA, K-Means clustering, a decision tree classifier, and a Streamlit app for real-time predictions. Built for banking and financial analytics use cases
+<h3 align="center">
+  PCA • K-Means Clustering • Decision Tree Classification • Streamlit Deployment
+</h3>
+
+<p align="center">
+  An end-to-end machine learning system for analysing credit-card customer behaviour,
+  segmenting users, and classifying new customers for banking and financial services.
+</p>
