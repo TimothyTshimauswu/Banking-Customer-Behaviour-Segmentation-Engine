@@ -2,7 +2,7 @@
   <img src="assets/project_banner.png" width="100%" alt="Banking Customer Behaviour Segmentation Engine Banner">
 </p>
 
-<h1 align="center">Banking Customer Behaviour Segmentation Engine</h1>
+<h1 align="center">🏦Banking Customer Behaviour Segmentation Engine</h1>
 
 <h3 align="center">
   PCA • K-Means Clustering • Decision Tree Classification • Streamlit Deployment
@@ -17,7 +17,6 @@
 ## Project Background
 
 With the rise of AI and targeted marketing, banks are prioritising behaviour-driven analytics to improve product performance, strengthen customer engagement, and optimise credit decisions. Understanding how customers spend, repay, and use their credit facilities is essential for designing relevant savings products, personal loans, and wealth management offers. Retail banks such as FNB and ABSA, as well as major credit lenders, rely on this intelligence to run high-performing product and marketing campaigns. Industry research shows that behaviour-based segmentation can increase campaign conversion by **20–30%** and reduce early-stage delinquency by **10–15%**, making it a key driver of business value.
-# 🏦 Banking Customer Behaviour Segmentation Engine
 
 ## 🧠 Project Overview
 
